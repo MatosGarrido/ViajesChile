@@ -39,6 +39,13 @@ a {
   font-size: 20px;
   padding-inline: 7px;
 }
+ 
+.nav-black{
+    background-color: #000;
+    opacity: 0.9;
+    color: #fff;
+}
+
 
 /* Media */
 
