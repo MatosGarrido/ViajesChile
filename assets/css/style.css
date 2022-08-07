@@ -1,0 +1,41 @@
+/* diseño general */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Albert Sans', sans-serif;
+    background-color: #000;
+    color: #fff;
+  }
+
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+}
+
+/* titulos */
+
+.titulo {
+  text-align: center
+}
+
+/* iconos quienes somos */
+
+.icono-quienes {
+  font-size: 30px;
+  text-align: center;
+}
+
+/* footer */
+
+.footer-info {
+  text-align: center;
+  }
+
+a {
+  color: #fff;
+  font-size: 20px;
+  padding-inline: 7px;
+}
